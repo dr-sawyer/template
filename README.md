@@ -10,7 +10,11 @@ Template of readme file including information that have to be included in every 
 
 <b> - How to run it</b>
 <p>Where is the index or the first archive to run?
-
+<p> Explain how to run locally and on server
+  
+<b> - Example</b>
+<p>Is there an archive with examples? Show here.
+  
 <b>- Requirement</b>
 <p>Is it necessary to install some software for it to run?
 <p>Is there a minimum of memory, windows, etc?
